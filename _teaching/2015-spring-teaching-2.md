@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "TA for Introduction to Economics"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Michigan Technological University, Department of Business and Economics"
+date: 2019-01-01
+location: "Houghton, Michigan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Grades problem sets, essays, and exams. Held weekly office hours to tutor students.
 
 Heading 1
 ======
