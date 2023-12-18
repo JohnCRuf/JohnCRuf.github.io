@@ -8,7 +8,7 @@ date: 2019-01-01
 location: "Houghton, Michigan"
 ---
 
-Grades problem sets, essays, and exams. Held weekly office hours to tutor students.
+Graded problem sets, essays, and exams. Held weekly office hours to tutor students.
 
 Heading 1
 ======
