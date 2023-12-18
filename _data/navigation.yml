@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publication/
   - title: "Writing Sample"
-    url: /writing/
+    url: "/files/writing_sample.pdf"
   - title: "Talks"
     url: /talks/    
 
