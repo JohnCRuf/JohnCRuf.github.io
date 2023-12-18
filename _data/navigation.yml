@@ -4,14 +4,9 @@ main:
     url: /publication/
   - title: "Writing Sample"
     url: "/files/writing_sample.pdf"
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
   - title: "Substack"
     url: https://johnruf.substack.com/
-    
   - title: "CV"
-    url: /cv/
+    url: /files/resume.pdf
