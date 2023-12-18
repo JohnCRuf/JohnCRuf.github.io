@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _writing
   - scope:
-      path: ""
+      path: "/files/writing_sample.pdf"
       type: writing
     values:
       layout: single
